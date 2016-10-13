@@ -13,6 +13,8 @@ If you have any further inquiries or would like to use the content for your semi
 Prerit Oberai at prerit.oberai@colorado.edu with the Subject:
 "HKN Git Seminar Inquiry".
 
-![alt text][logo]
+![alt text][logo] [logo2]
 
-[logo]: http://hkn.binghamton.edu/img/hkn-crest.gif "HKN Image"
+[logo]: http://hkn.binghamton.edu/img/hkn-crest.gif "HKN Logo Image"
+
+[logo2]:http://www.etis.ensea.fr/neurocyber/ICDL-EPIROB2016/images/IEEE_logo.jpg "IEEE Logo Image"
