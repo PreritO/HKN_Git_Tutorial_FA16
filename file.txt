@@ -1,0 +1,5 @@
+Welcome Stranger!
+
+This is a sample file in the HKN Git Tutorial that you will be modifying and
+using to work along with throughout the seminar. If you can read this,
+You've successfully been able to clone the repo. Congrats!
