@@ -9,7 +9,7 @@ file to add the following information and then push it back
 onto your branch
 
 
-First Name:
-Last Name:
-Email Address:
-Fun Fact:
+First Name: Ryan
+Last Name: ZumBrunnen
+Email Address: ryzu2244@colorado.edu
+Fun Fact: I love water
