@@ -12,4 +12,4 @@ onto your branch
 First Name: Sean
 Last Name: Lambert
 Email Address: sean.lambert@colorado.edu
-Fun Fact: I'm learning how to use git.
+Fun Fact: Now I'm learning how to merge branches in git. 
